@@ -45,6 +45,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
   The following screenshots demonstrate the functionality of the web application.
+  
   Website user interface:
 <img width="1280" alt="JATE" src="https://github.com/kristinaama/Text-Editor/assets/127279859/4c0d81c9-8629-42b4-8cb8-ec1c96221fb4">
 
