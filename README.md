@@ -44,6 +44,19 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+  The following screenshots demonstrate the functionality of the web application.
+  Website user interface:
+<img width="1280" alt="JATE" src="https://github.com/kristinaama/Text-Editor/assets/127279859/4c0d81c9-8629-42b4-8cb8-ec1c96221fb4">
+
+  IndexedDB:
+  <img width="1266" alt="JATE - IndexedDB" src="https://github.com/kristinaama/Text-Editor/assets/127279859/e9dcccc0-1164-42c0-bb84-0a5ac68666c0">
+
+  Manifest:
+  <img width="1267" alt="JATE - Manifest" src="https://github.com/kristinaama/Text-Editor/assets/127279859/b0bf1db4-a142-4279-b753-de2bb77756d2">
+
+  Service Workers:
+  <img width="1266" alt="JATE - Service Workers" src="https://github.com/kristinaama/Text-Editor/assets/127279859/e2d5714e-ddd0-4ac0-93de-98668c1332fa">
+
 ## Installation:
  The code can be downloaded via the Text Editor folder on my Github page.
 
