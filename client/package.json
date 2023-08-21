@@ -8,7 +8,8 @@
   "author": "2U",
   "license": "UNLICENSED",
   "engines": {
-    "node": "18.16.0"
+    "node": "18.16.0",
+    "npm": "9.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
